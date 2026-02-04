@@ -64,7 +64,7 @@
 <h3>1. Clone the Repository</h3>
 <pre>
 <code>
-git clone https://github.com/adarshupadhyay21/shopease.git
+
 cd shopease
 </code>
 </pre>
