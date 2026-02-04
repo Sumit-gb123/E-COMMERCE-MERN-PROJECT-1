@@ -4,6 +4,7 @@
     ShopEase is a fully functional e-commerce platform built with the <strong>MERN stack</strong> (MongoDB, Express, React, Node.js). 
     It includes essential e-commerce features like product browsing, filtering, user authentication, order management, and an integrated payment gateway using <strong>Stripe</strong>. 
     An admin panel is also provided for managing products and orders efficiently.
+   
 </p>
 
 <hr>
